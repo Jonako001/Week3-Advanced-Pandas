@@ -1,4 +1,4 @@
-# Nakuru Dairy Co-op - Monthly Zone Summary
+# ATURKAN Dairy Co-op - Monthly Zone Summary
 
 This script merges daily milk collection with farmer details to give the manager a clean monthly report.
 
@@ -13,7 +13,7 @@ This script merges daily milk collection with farmer details to give the manager
 1.  **collection.csv** -> `farmer_name, date, litres`
 2.  **farmers.csv** -> `farmer_name, zone, rate_per_litre`
 
-Currently using realistic sample data for 12 farmers across 3 Nakuru zones: Molo, Bahati, Subukia.
+Currently using realistic sample data for 16 farmers across 3 Turkana zones: Kalokol, Kerio, Napetet.
 
 ### How to run
 python day2_nakuru_coop.py
