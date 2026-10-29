@@ -1,0 +1,244 @@
+date,client_name,county,product,qty,unit_price
+2024-08-24,Lamu Traders,Kilifi,Rice 25kg,4,3200
+2024-08-10,Changamwe Depot,Kilifi,Tea Leaves 5kg,17,2100
+2024-08-16,Otieno Wholesale,Taita Taveta,Maize Flour 10kg,4,1450
+2024-08-22,Baraka Supermarket,Taita Taveta,Tea Leaves 5kg,15,2100
+2024-08-21,Mariakani Stores,Mombasa,Wheat Flour 10kg,2,1500
+2024-08-21,Likoni Wholesalers,Lamu,Sugar 50kg,11,5800
+2024-08-15,Hassan Traders,Kilifi,Wheat Flour 10kg,20,1500
+2024-08-25,Voi Junction,Taita Taveta,Sugar 50kg,9,5800
+2024-08-13,Mombasa Fresh,Lamu,Sugar 50kg,25,5800
+2024-08-06,Aisha Retail,Kwale,Sugar 50kg,18,5800
+2024-08-01,Kamau Stores,Mombasa,Wheat Flour 10kg,2,1500
+2024-08-10,Hassan Traders,Mombasa,Wheat Flour 10kg,2,1500
+2024-08-26,Otieno Wholesale,Taita Taveta,Wheat Flour 10kg,21,1500
+2024-08-27,Likoni Wholesalers,Lamu,Wheat Flour 10kg,24,1500
+2024-08-10,Lamu Traders,Taita Taveta,Maize Flour 10kg,15,1450
+2024-08-04,Changamwe Depot,Kwale,Rice 25kg,19,3200
+2024-08-06,Changamwe Depot,Mombasa,Maize Flour 10kg,22,1450
+2024-08-04,Changamwe Depot,Mombasa,Maize Flour 10kg,17,1450
+2024-08-08,Otieno Wholesale,Taita Taveta,Tea Leaves 5kg,19,2100
+2024-08-23,Nyali Grocers,Kilifi,Tea Leaves 5kg,25,2100
+2024-08-24,Otieno Wholesale,Kwale,Sugar 50kg,19,5800
+2024-08-20,Mombasa Fresh,Kilifi,Rice 25kg,3,3200
+2024-08-22,Voi Junction,Taita Taveta,Wheat Flour 10kg,4,1500
+2024-08-11,Voi Junction,Lamu,Maize Flour 10kg,9,1450
+2024-08-14,Likoni Wholesalers,Kwale,Wheat Flour 10kg,23,1500
+2024-08-13,Mariakani Stores,Mombasa,Wheat Flour 10kg,5,1500
+2024-08-26,Changamwe Depot,Kilifi,Rice 25kg,13,3200
+2024-08-17,Nyali Grocers,Mombasa,Tea Leaves 5kg,5,2100
+2024-08-02,Changamwe Depot,Lamu,Cooking Oil 20L,10,5200
+2024-08-26,Hassan Traders,Lamu,Rice 25kg,25,3200
+2024-08-20,Mariakani Stores,Kwale,Rice 25kg,23,3200
+2024-08-11,Coast Mart,Kilifi,Cooking Oil 20L,13,5200
+2024-08-02,Baraka Supermarket,Kilifi,Cooking Oil 20L,19,5200
+2024-08-07,Baraka Supermarket,Mombasa,Maize Flour 10kg,11,1450
+2024-08-21,Mombasa Fresh,Lamu,Maize Flour 10kg,25,1450
+2024-08-26,Aisha Retail,Kilifi,Tea Leaves 5kg,11,2100
+2024-08-01,Nakoli Traders,Kilifi,Maize Flour 10kg,7,1450
+2024-08-11,Kilifi Distributors,Kilifi,Tea Leaves 5kg,8,2100
+2024-08-05,Hassan Traders,Taita Taveta,Maize Flour 10kg,4,1450
+2024-08-06,Kamau Stores,Kwale,Sugar 50kg,7,5800
+2024-08-03,Baraka Supermarket,Mombasa,Cooking Oil 20L,22,5200
+2024-08-12,Otieno Wholesale,Kilifi,Maize Flour 10kg,25,1450
+2024-08-18,Kamau Stores,Mombasa,Maize Flour 10kg,9,1450
+2024-08-09,Kilifi Distributors,Taita Taveta,Sugar 50kg,6,5800
+2024-08-12,Kilifi Distributors,Kwale,Tea Leaves 5kg,3,2100
+2024-08-27,Voi Junction,Mombasa,Rice 25kg,13,3200
+2024-08-03,Baraka Supermarket,Taita Taveta,Tea Leaves 5kg,12,2100
+2024-08-17,Kamau Stores,Mombasa,Wheat Flour 10kg,18,1500
+2024-08-24,Baraka Supermarket,Kwale,Maize Flour 10kg,16,1450
+2024-08-02,Likoni Wholesalers,Taita Taveta,Rice 25kg,9,3200
+2024-08-09,Kilifi Distributors,Taita Taveta,Cooking Oil 20L,25,5200
+2024-08-17,Mombasa Fresh,Lamu,Rice 25kg,23,3200
+2024-08-05,Aisha Retail,Mombasa,Tea Leaves 5kg,7,2100
+2024-08-14,Baraka Supermarket,Lamu,Rice 25kg,10,3200
+2024-08-15,Kamau Stores,Lamu,Tea Leaves 5kg,8,2100
+2024-08-14,Likoni Wholesalers,Kilifi,Maize Flour 10kg,15,1450
+2024-08-18,Changamwe Depot,Mombasa,Cooking Oil 20L,13,5200
+2024-08-24,Hassan Traders,Mombasa,Rice 25kg,12,3200
+2024-08-11,Baraka Supermarket,Kilifi,Tea Leaves 5kg,6,2100
+2024-08-11,Coast Mart,Mombasa,Wheat Flour 10kg,10,1500
+2024-08-18,Mariakani Stores,Lamu,Wheat Flour 10kg,14,1500
+2024-08-20,Kilifi Distributors,Kwale,Maize Flour 10kg,7,1450
+2024-08-15,Kamau Stores,Mombasa,Rice 25kg,2,3200
+2024-08-25,Voi Junction,Kwale,Cooking Oil 20L,24,5200
+2024-08-01,Mombasa Fresh,Kilifi,Tea Leaves 5kg,4,2100
+2024-08-11,Changamwe Depot,Lamu,Tea Leaves 5kg,9,2100
+2024-08-19,Otieno Wholesale,Taita Taveta,Rice 25kg,17,3200
+2024-08-12,Otieno Wholesale,Lamu,Cooking Oil 20L,20,5200
+2024-08-21,Otieno Wholesale,Kwale,Rice 25kg,6,3200
+2024-08-28,Voi Junction,Mombasa,Tea Leaves 5kg,7,2100
+2024-08-01,Voi Junction,Taita Taveta,Rice 25kg,6,3200
+2024-08-13,Mariakani Stores,Taita Taveta,Maize Flour 10kg,20,1450
+2024-08-14,Hassan Traders,Taita Taveta,Tea Leaves 5kg,15,2100
+2024-08-12,Nyali Grocers,Mombasa,Wheat Flour 10kg,8,1500
+2024-08-13,Coast Mart,Mombasa,Tea Leaves 5kg,5,2100
+2024-08-09,Nakoli Traders,Lamu,Sugar 50kg,5,5800
+2024-08-07,Nakoli Traders,Kilifi,Cooking Oil 20L,3,5200
+2024-08-09,Kamau Stores,Kwale,Tea Leaves 5kg,6,2100
+2024-08-08,Hassan Traders,Lamu,Wheat Flour 10kg,2,1500
+2024-08-11,Voi Junction,Kwale,Rice 25kg,20,3200
+2024-08-12,Voi Junction,Taita Taveta,Maize Flour 10kg,4,1450
+2024-08-27,Likoni Wholesalers,Kilifi,Tea Leaves 5kg,7,2100
+2024-08-25,Voi Junction,Taita Taveta,Maize Flour 10kg,16,1450
+2024-08-26,Kamau Stores,Mombasa,Rice 25kg,17,3200
+2024-08-23,Changamwe Depot,Taita Taveta,Tea Leaves 5kg,24,2100
+2024-08-09,Kamau Stores,Kwale,Tea Leaves 5kg,24,2100
+2024-08-11,Baraka Supermarket,Kwale,Tea Leaves 5kg,7,2100
+2024-08-14,Coast Mart,Taita Taveta,Tea Leaves 5kg,12,2100
+2024-08-03,Changamwe Depot,Lamu,Maize Flour 10kg,23,1450
+2024-08-26,Kamau Stores,Kwale,Sugar 50kg,14,5800
+2024-08-19,Coast Mart,Kwale,Cooking Oil 20L,11,5200
+2024-08-19,Hassan Traders,Lamu,Sugar 50kg,25,5800
+2024-08-14,Nyali Grocers,Mombasa,Tea Leaves 5kg,8,2100
+2024-08-14,Changamwe Depot,Lamu,Maize Flour 10kg,19,1450
+2024-08-16,Mariakani Stores,Kilifi,Tea Leaves 5kg,22,2100
+2024-08-12,Changamwe Depot,Kilifi,Tea Leaves 5kg,4,2100
+2024-08-03,Kamau Stores,Taita Taveta,Cooking Oil 20L,12,5200
+2024-08-13,Likoni Wholesalers,Taita Taveta,Sugar 50kg,6,5800
+2024-08-26,Baraka Supermarket,Kwale,Wheat Flour 10kg,7,1500
+2024-08-09,Mombasa Fresh,Taita Taveta,Tea Leaves 5kg,10,2100
+2024-08-11,Kilifi Distributors,Kwale,Wheat Flour 10kg,2,1500
+2024-08-05,Coast Mart,Taita Taveta,Wheat Flour 10kg,21,1500
+2024-08-18,Mombasa Fresh,Taita Taveta,Maize Flour 10kg,5,1450
+2024-08-27,Kamau Stores,Kilifi,Cooking Oil 20L,14,5200
+2024-08-04,Voi Junction,Mombasa,Cooking Oil 20L,21,5200
+2024-08-03,Coast Mart,Taita Taveta,Wheat Flour 10kg,15,1500
+2024-08-16,Nyali Grocers,Kwale,Sugar 50kg,7,5800
+2024-08-13,Aisha Retail,Taita Taveta,Maize Flour 10kg,14,1450
+2024-08-20,Lamu Traders,Kwale,Tea Leaves 5kg,21,2100
+2024-08-07,Lamu Traders,Kwale,Maize Flour 10kg,18,1450
+2024-08-06,Mariakani Stores,Lamu,Rice 25kg,25,3200
+2024-08-13,Nakoli Traders,Kilifi,Tea Leaves 5kg,22,2100
+2024-08-21,Voi Junction,Kilifi,Sugar 50kg,5,5800
+2024-08-20,Voi Junction,Mombasa,Maize Flour 10kg,22,1450
+2024-08-03,Otieno Wholesale,Mombasa,Cooking Oil 20L,6,5200
+2024-08-23,Nyali Grocers,Taita Taveta,Wheat Flour 10kg,16,1500
+2024-08-02,Changamwe Depot,Taita Taveta,Cooking Oil 20L,22,5200
+2024-08-17,Nyali Grocers,Lamu,Sugar 50kg,20,5800
+2024-08-19,Nakoli Traders,Taita Taveta,Wheat Flour 10kg,11,1500
+2024-08-15,Nyali Grocers,Taita Taveta,Wheat Flour 10kg,12,1500
+2024-08-24,Hassan Traders,Taita Taveta,Sugar 50kg,12,5800
+2024-08-17,Kilifi Distributors,Mombasa,Sugar 50kg,10,5800
+2024-08-27,Nakoli Traders,Taita Taveta,Rice 25kg,15,3200
+2024-08-28,Baraka Supermarket,Mombasa,Sugar 50kg,19,5800
+2024-08-28,Otieno Wholesale,Mombasa,Cooking Oil 20L,14,5200
+2024-08-21,Lamu Traders,Lamu,Sugar 50kg,7,5800
+2024-08-10,Baraka Supermarket,Mombasa,Cooking Oil 20L,7,5200
+2024-08-20,Baraka Supermarket,Kwale,Rice 25kg,11,3200
+2024-08-23,Mombasa Fresh,Taita Taveta,Maize Flour 10kg,14,1450
+2024-08-20,Kilifi Distributors,Kilifi,Tea Leaves 5kg,25,2100
+2024-08-18,Changamwe Depot,Kilifi,Maize Flour 10kg,9,1450
+2024-08-19,Nyali Grocers,Mombasa,Wheat Flour 10kg,24,1500
+2024-08-09,Kilifi Distributors,Lamu,Wheat Flour 10kg,7,1500
+2024-08-13,Otieno Wholesale,Kilifi,Cooking Oil 20L,2,5200
+2024-08-14,Coast Mart,Taita Taveta,Rice 25kg,25,3200
+2024-08-16,Hassan Traders,Taita Taveta,Maize Flour 10kg,6,1450
+2024-08-06,Lamu Traders,Mombasa,Maize Flour 10kg,8,1450
+2024-08-23,Otieno Wholesale,Lamu,Rice 25kg,11,3200
+2024-08-17,Nakoli Traders,Taita Taveta,Sugar 50kg,13,5800
+2024-08-18,Kilifi Distributors,Mombasa,Cooking Oil 20L,8,5200
+2024-08-24,Mombasa Fresh,Lamu,Sugar 50kg,18,5800
+2024-08-18,Coast Mart,Lamu,Cooking Oil 20L,9,5200
+2024-08-17,Likoni Wholesalers,Lamu,Cooking Oil 20L,24,5200
+2024-08-23,Lamu Traders,Mombasa,Wheat Flour 10kg,9,1500
+2024-08-22,Otieno Wholesale,Kilifi,Tea Leaves 5kg,17,2100
+2024-08-07,Kilifi Distributors,Lamu,Maize Flour 10kg,15,1450
+2024-08-15,Baraka Supermarket,Kwale,Cooking Oil 20L,10,5200
+2024-08-02,Kamau Stores,Kwale,Sugar 50kg,23,5800
+2024-08-28,Kilifi Distributors,Mombasa,Wheat Flour 10kg,10,1500
+2024-08-20,Aisha Retail,Mombasa,Maize Flour 10kg,21,1450
+2024-08-05,Otieno Wholesale,Kwale,Rice 25kg,20,3200
+2024-08-04,Likoni Wholesalers,Kilifi,Cooking Oil 20L,14,5200
+2024-08-10,Coast Mart,Kilifi,Sugar 50kg,4,5800
+2024-08-11,Aisha Retail,Kwale,Tea Leaves 5kg,23,2100
+2024-08-18,Changamwe Depot,Kilifi,Rice 25kg,2,3200
+2024-08-26,Otieno Wholesale,Taita Taveta,Cooking Oil 20L,21,5200
+2024-08-24,Mariakani Stores,Kilifi,Maize Flour 10kg,14,1450
+2024-08-22,Kilifi Distributors,Mombasa,Maize Flour 10kg,12,1450
+2024-08-22,Kilifi Distributors,Taita Taveta,Sugar 50kg,15,5800
+2024-08-22,Baraka Supermarket,Kwale,Wheat Flour 10kg,20,1500
+2024-08-22,Nakoli Traders,Kilifi,Sugar 50kg,21,5800
+2024-08-15,Mombasa Fresh,Mombasa,Rice 25kg,12,3200
+2024-08-01,Mariakani Stores,Mombasa,Sugar 50kg,2,5800
+2024-08-27,Kilifi Distributors,Mombasa,Sugar 50kg,14,5800
+2024-08-16,Aisha Retail,Kwale,Maize Flour 10kg,11,1450
+2024-08-24,Mariakani Stores,Taita Taveta,Rice 25kg,24,3200
+2024-08-07,Aisha Retail,Kwale,Rice 25kg,24,3200
+2024-08-18,Nyali Grocers,Kwale,Sugar 50kg,15,5800
+2024-08-23,Coast Mart,Taita Taveta,Wheat Flour 10kg,5,1500
+2024-08-05,Nakoli Traders,Taita Taveta,Maize Flour 10kg,13,1450
+2024-08-10,Nyali Grocers,Kilifi,Wheat Flour 10kg,19,1500
+2024-08-12,Voi Junction,Taita Taveta,Maize Flour 10kg,8,1450
+2024-08-16,Voi Junction,Kilifi,Rice 25kg,21,3200
+2024-08-01,Lamu Traders,Kilifi,Maize Flour 10kg,3,1450
+2024-08-22,Mariakani Stores,Kilifi,Cooking Oil 20L,17,5200
+2024-08-20,Otieno Wholesale,Taita Taveta,Tea Leaves 5kg,9,2100
+2024-08-24,Nyali Grocers,Mombasa,Cooking Oil 20L,16,5200
+2024-08-10,Aisha Retail,Taita Taveta,Tea Leaves 5kg,19,2100
+2024-08-06,Mariakani Stores,Lamu,Rice 25kg,17,3200
+2024-08-07,Hassan Traders,Taita Taveta,Cooking Oil 20L,23,5200
+2024-08-18,Kilifi Distributors,Kwale,Wheat Flour 10kg,15,1500
+2024-08-27,Otieno Wholesale,Kwale,Wheat Flour 10kg,13,1500
+2024-08-19,Baraka Supermarket,Taita Taveta,Rice 25kg,16,3200
+2024-08-02,Hassan Traders,Kwale,Wheat Flour 10kg,18,1500
+2024-08-04,Aisha Retail,Kilifi,Rice 25kg,24,3200
+2024-08-05,Mombasa Fresh,Lamu,Wheat Flour 10kg,5,1500
+2024-08-01,Voi Junction,Kwale,Sugar 50kg,2,5800
+2024-08-09,Mombasa Fresh,Lamu,Tea Leaves 5kg,2,2100
+2024-08-09,Aisha Retail,Mombasa,Tea Leaves 5kg,13,2100
+2024-08-14,Kamau Stores,Kilifi,Rice 25kg,13,3200
+2024-08-12,Kamau Stores,Kilifi,Wheat Flour 10kg,23,1500
+2024-08-22,Changamwe Depot,Kwale,Tea Leaves 5kg,15,2100
+2024-08-03,Voi Junction,Lamu,Cooking Oil 20L,7,5200
+2024-08-25,Kilifi Distributors,Kilifi,Tea Leaves 5kg,18,2100
+2024-08-08,Changamwe Depot,Mombasa,Maize Flour 10kg,3,1450
+2024-08-17,Mariakani Stores,Taita Taveta,Wheat Flour 10kg,9,1500
+2024-08-22,Coast Mart,Mombasa,Tea Leaves 5kg,16,2100
+2024-08-01,Likoni Wholesalers,Taita Taveta,Maize Flour 10kg,6,1450
+2024-08-02,Aisha Retail,Taita Taveta,Rice 25kg,17,3200
+2024-08-26,Lamu Traders,Kilifi,Wheat Flour 10kg,25,1500
+2024-08-05,Mariakani Stores,Kilifi,Wheat Flour 10kg,6,1500
+2024-08-25,Kilifi Distributors,Taita Taveta,Tea Leaves 5kg,21,2100
+2024-08-09,Mombasa Fresh,Lamu,Maize Flour 10kg,18,1450
+2024-08-05,Baraka Supermarket,Kilifi,Maize Flour 10kg,12,1450
+2024-08-24,Nakoli Traders,Taita Taveta,Wheat Flour 10kg,13,1500
+2024-08-22,Nyali Grocers,Kwale,Cooking Oil 20L,3,5200
+2024-08-19,Likoni Wholesalers,Lamu,Tea Leaves 5kg,16,2100
+2024-08-15,Nyali Grocers,Mombasa,Tea Leaves 5kg,4,2100
+2024-08-08,Nyali Grocers,Lamu,Cooking Oil 20L,18,5200
+2024-08-28,Mombasa Fresh,Mombasa,Rice 25kg,19,3200
+2024-08-12,Nakoli Traders,Lamu,Sugar 50kg,3,5800
+2024-08-10,Likoni Wholesalers,Kilifi,Tea Leaves 5kg,11,2100
+2024-08-26,Otieno Wholesale,Lamu,Rice 25kg,21,3200
+2024-08-03,Voi Junction,Mombasa,Tea Leaves 5kg,23,2100
+2024-08-11,Mariakani Stores,Lamu,Rice 25kg,23,3200
+2024-08-17,Otieno Wholesale,Kwale,Sugar 50kg,6,5800
+2024-08-22,Baraka Supermarket,Taita Taveta,Sugar 50kg,4,5800
+2024-08-12,Kilifi Distributors,Kwale,Rice 25kg,23,3200
+2024-08-21,Likoni Wholesalers,Kilifi,Rice 25kg,16,3200
+2024-08-19,Baraka Supermarket,Kwale,Wheat Flour 10kg,23,1500
+2024-08-15,Lamu Traders,Mombasa,Wheat Flour 10kg,21,1500
+2024-08-25,Likoni Wholesalers,Lamu,Cooking Oil 20L,10,5200
+2024-08-21,Voi Junction,Kilifi,Cooking Oil 20L,10,5200
+2024-08-26,Coast Mart,Mombasa,Wheat Flour 10kg,8,1500
+2024-08-19,Aisha Retail,Lamu,Maize Flour 10kg,9,1450
+2024-08-20,Kamau Stores,Lamu,Sugar 50kg,2,5800
+2024-08-12,Voi Junction,Mombasa,Tea Leaves 5kg,9,2100
+2024-08-19,Nakoli Traders,Kwale,Wheat Flour 10kg,19,1500
+2024-08-06,Kamau Stores,Kwale,Wheat Flour 10kg,20,1500
+2024-08-28,Voi Junction,Taita Taveta,Sugar 50kg,18,5800
+2024-08-13,Nakoli Traders,Mombasa,Cooking Oil 20L,15,5200
+2024-08-21,Nakoli Traders,Lamu,Rice 25kg,4,3200
+2024-08-27,Hassan Traders,Kwale,Rice 25kg,9,3200
+2024-08-03,Mariakani Stores,Kwale,Maize Flour 10kg,18,1450
+2024-08-15,Otieno Wholesale,Lamu,Maize Flour 10kg,4,1450
+2024-08-15,Kilifi Distributors,Kwale,Tea Leaves 5kg,15,2100
+2024-08-06,Nyali Grocers,Kwale,Maize Flour 10kg,3,1450
+2024-08-25,Voi Junction,Kilifi,Maize Flour 10kg,12,1450
+2024-08-06,Lamu Traders,Taita Taveta,Tea Leaves 5kg,23,2100
+2024-08-18,Mombasa Fresh,Taita Taveta,Wheat Flour 10kg,2,1500
+2024-08-15,Lamu Traders,Mombasa,Sugar 50kg,6,5800
+2024-08-23,Changamwe Depot,Kilifi,Tea Leaves 5kg,8,2100
+2024-08-28,Changamwe Depot,Taita Taveta,Cooking Oil 20L,4,5200
