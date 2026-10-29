@@ -33,3 +33,6 @@ Combined August (243) + September (198) = 441 rows. Fixed column mismatches (cli
 Finding 1: Revenue fell 9.5% Aug->Sep.
 Finding 2: 3 customers grew 30%+ despite overall fall.
 Finding 3: 3 dormant customers = KES 2.2M lost revenue.
+
+## Day 14 Exercise: Kisumu County - Attendance vs Infrastructure
+Cleaned 13 attendance rows (1 duplicate) + 12 infrastructure rows (3 name mismatches: Boys High vs Boys High School, Girls vs Girls High, St Marys vs St Mary's) and merged 12 schools. Finding for County Officer: Analysis of 12 Kisumu schools shows a very weak negative correlation (r=-0.13) between number of classrooms and average attendance, suggesting classroom count alone does not predict attendance and other factors (water_access, teachers) should be investigated.
