@@ -27,3 +27,9 @@
 - `day13_microfinance_mombasa.py` - Full analysis code
 - `mombasa_microfinance_loans.csv` - Dataset
 - `loan_amounts_histogram.png` - Distribution chart
+
+## Day 14: Multi-Dataset Analysis
+Combined August (243) + September (198) = 441 rows. Fixed column mismatches (client_name/customer_name, qty/quantity, county/region, unit_price/price).
+Finding 1: Revenue fell 9.5% Aug->Sep.
+Finding 2: 3 customers grew 30%+ despite overall fall.
+Finding 3: 3 dormant customers = KES 2.2M lost revenue.
